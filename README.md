@@ -1,5 +1,5 @@
 # Hello everyone. Welcome to my HTML and CSS tutorials!
-#### Hello everyone again. After a long break, I continue my education from where I left off. The third project of this series is on the air.
+#### Hello everyone again. After a long break, I continue my education from where I left off with the exercises on the Frontend Mentor site. The third project of this series is on the air.
 
 #### Click demo to try it by yourself!
 
